@@ -1,4 +1,4 @@
-# CPU-Scheduler-
+# CPU-Scheduler- <br>
 language used  : Python3 Version 3.8.10
 Run:           : To run the program, simply type python3 main.py <parameters>
 Parameters     : -s <type of scheduler> -q <quantum> <input file>
